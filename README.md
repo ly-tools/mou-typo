@@ -4,4 +4,7 @@
 
 中文展示的效果很赞
 
+###使用方式
+将mou-typo.css文件复制到 `~/Library/Application\ Support/Mou/CSS/` 下，并在mou的Preference > CSS 中选择文件即可
 
+ 
